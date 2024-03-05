@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.88c779ff.css",
-    "main.js": "/static/js/main.c77f23b0.js",
-    "static/media/980x551 1.jpg": "/static/media/980x551 1.53b527e47c5a80853a14.jpg",
-    "static/media/980x551 3.jpg": "/static/media/980x551 3.79ce1254804437107616.jpg",
-    "static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg": "/static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.357f69752cb112e643c0.jpg",
-    "static/media/980x551 2.jpg": "/static/media/980x551 2.5d55074fa1f3e927251f.jpg",
-    "static/media/980x551 4.jpg": "/static/media/980x551 4.492578b70dfeafbb3f1e.jpg",
-    "static/media/promo_iphone_tradein__bugw15ka691e_large.jpg": "/static/media/promo_iphone_tradein__bugw15ka691e_large.76fb17a2780cc128839d.jpg",
-    "static/media/hero_apple_vision_pro_avail__ecthwv10twsy_large.jpg": "/static/media/hero_apple_vision_pro_avail__ecthwv10twsy_large.37587d1e7da48ee5c9d5.jpg",
-    "static/media/hero_macbook_air_m3_announce__fk6hkws5232i_large.jpg": "/static/media/hero_macbook_air_m3_announce__fk6hkws5232i_large.5fa90ac4d465cd2480ab.jpg",
-    "static/media/hero_airpods_pro__cj2i6o7o6876_large.jpg": "/static/media/hero_airpods_pro__cj2i6o7o6876_large.7059454d1e293abba264.jpg",
-    "static/media/promo_ipad__fioegapg12qi_large.jpg": "/static/media/promo_ipad__fioegapg12qi_large.3a25f6172480ac8eb38b.jpg",
-    "static/media/promo_iphone15_announce__fmxxi8r9fkuy_large.jpg": "/static/media/promo_iphone15_announce__fmxxi8r9fkuy_large.fb4d84467f7563ca60bb.jpg",
-    "static/media/tile__cauwwcyyn9hy_large.jpg": "/static/media/tile__cauwwcyyn9hy_large.2ed7af2271e7516f75ec.jpg",
-    "static/media/promo_iphone15pro__e48p7n5x3nsm_large.jpg": "/static/media/promo_iphone15pro__e48p7n5x3nsm_large.3989c2922d30bb41b710.jpg",
-    "index.html": "/index.html",
-    "main.88c779ff.css.map": "/static/css/main.88c779ff.css.map",
-    "main.c77f23b0.js.map": "/static/js/main.c77f23b0.js.map"
+    "main.css": "/apple-clone/static/css/main.88c779ff.css",
+    "main.js": "/apple-clone/static/js/main.8d6d8208.js",
+    "static/media/980x551 1.jpg": "/apple-clone/static/media/980x551 1.53b527e47c5a80853a14.jpg",
+    "static/media/980x551 3.jpg": "/apple-clone/static/media/980x551 3.79ce1254804437107616.jpg",
+    "static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg": "/apple-clone/static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.357f69752cb112e643c0.jpg",
+    "static/media/980x551 2.jpg": "/apple-clone/static/media/980x551 2.5d55074fa1f3e927251f.jpg",
+    "static/media/980x551 4.jpg": "/apple-clone/static/media/980x551 4.492578b70dfeafbb3f1e.jpg",
+    "static/media/promo_iphone_tradein__bugw15ka691e_large.jpg": "/apple-clone/static/media/promo_iphone_tradein__bugw15ka691e_large.76fb17a2780cc128839d.jpg",
+    "static/media/hero_apple_vision_pro_avail__ecthwv10twsy_large.jpg": "/apple-clone/static/media/hero_apple_vision_pro_avail__ecthwv10twsy_large.37587d1e7da48ee5c9d5.jpg",
+    "static/media/hero_macbook_air_m3_announce__fk6hkws5232i_large.jpg": "/apple-clone/static/media/hero_macbook_air_m3_announce__fk6hkws5232i_large.5fa90ac4d465cd2480ab.jpg",
+    "static/media/hero_airpods_pro__cj2i6o7o6876_large.jpg": "/apple-clone/static/media/hero_airpods_pro__cj2i6o7o6876_large.7059454d1e293abba264.jpg",
+    "static/media/promo_ipad__fioegapg12qi_large.jpg": "/apple-clone/static/media/promo_ipad__fioegapg12qi_large.3a25f6172480ac8eb38b.jpg",
+    "static/media/promo_iphone15_announce__fmxxi8r9fkuy_large.jpg": "/apple-clone/static/media/promo_iphone15_announce__fmxxi8r9fkuy_large.fb4d84467f7563ca60bb.jpg",
+    "static/media/tile__cauwwcyyn9hy_large.jpg": "/apple-clone/static/media/tile__cauwwcyyn9hy_large.2ed7af2271e7516f75ec.jpg",
+    "static/media/promo_iphone15pro__e48p7n5x3nsm_large.jpg": "/apple-clone/static/media/promo_iphone15pro__e48p7n5x3nsm_large.3989c2922d30bb41b710.jpg",
+    "index.html": "/apple-clone/index.html",
+    "main.88c779ff.css.map": "/apple-clone/static/css/main.88c779ff.css.map",
+    "main.8d6d8208.js.map": "/apple-clone/static/js/main.8d6d8208.js.map"
   },
   "entrypoints": [
     "static/css/main.88c779ff.css",
-    "static/js/main.c77f23b0.js"
+    "static/js/main.8d6d8208.js"
   ]
 }
