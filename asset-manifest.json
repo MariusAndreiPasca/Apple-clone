@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/Apple-clone/static/css/main.88c779ff.css",
-    "main.js": "/Apple-clone/static/js/main.ca6a362a.js",
+    "main.css": "/Apple-clone/static/css/main.c4ad0e7a.css",
+    "main.js": "/Apple-clone/static/js/main.43e6a09a.js",
     "static/media/980x551 1.jpg": "/Apple-clone/static/media/980x551 1.53b527e47c5a80853a14.jpg",
+    "static/media/980x551 5.jpg": "/Apple-clone/static/media/980x551 5.a94747a4ac8618321e3e.jpg",
     "static/media/980x551 3.jpg": "/Apple-clone/static/media/980x551 3.79ce1254804437107616.jpg",
     "static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg": "/Apple-clone/static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.357f69752cb112e643c0.jpg",
     "static/media/980x551 2.jpg": "/Apple-clone/static/media/980x551 2.5d55074fa1f3e927251f.jpg",
     "static/media/980x551 4.jpg": "/Apple-clone/static/media/980x551 4.492578b70dfeafbb3f1e.jpg",
+    "static/media/980x551.jpg": "/Apple-clone/static/media/980x551.14623a5727d9af1f48db.jpg",
+    "static/media/980x551 7.jpg": "/Apple-clone/static/media/980x551 7.429f08222b572438745c.jpg",
+    "static/media/980x551 8.jpg": "/Apple-clone/static/media/980x551 8.761586e0be5d28bd06e3.jpg",
     "static/media/promo_iphone_tradein__bugw15ka691e_large.jpg": "/Apple-clone/static/media/promo_iphone_tradein__bugw15ka691e_large.76fb17a2780cc128839d.jpg",
     "static/media/hero_apple_vision_pro_avail__ecthwv10twsy_large.jpg": "/Apple-clone/static/media/hero_apple_vision_pro_avail__ecthwv10twsy_large.37587d1e7da48ee5c9d5.jpg",
+    "static/media/980x551 6.jpg": "/Apple-clone/static/media/980x551 6.98e72fad38ee613cbb9a.jpg",
     "static/media/hero_macbook_air_m3_announce__fk6hkws5232i_large.jpg": "/Apple-clone/static/media/hero_macbook_air_m3_announce__fk6hkws5232i_large.5fa90ac4d465cd2480ab.jpg",
     "static/media/hero_airpods_pro__cj2i6o7o6876_large.jpg": "/Apple-clone/static/media/hero_airpods_pro__cj2i6o7o6876_large.7059454d1e293abba264.jpg",
     "static/media/promo_ipad__fioegapg12qi_large.jpg": "/Apple-clone/static/media/promo_ipad__fioegapg12qi_large.3a25f6172480ac8eb38b.jpg",
@@ -16,11 +21,11 @@
     "static/media/tile__cauwwcyyn9hy_large.jpg": "/Apple-clone/static/media/tile__cauwwcyyn9hy_large.2ed7af2271e7516f75ec.jpg",
     "static/media/promo_iphone15pro__e48p7n5x3nsm_large.jpg": "/Apple-clone/static/media/promo_iphone15pro__e48p7n5x3nsm_large.3989c2922d30bb41b710.jpg",
     "index.html": "/Apple-clone/index.html",
-    "main.88c779ff.css.map": "/Apple-clone/static/css/main.88c779ff.css.map",
-    "main.ca6a362a.js.map": "/Apple-clone/static/js/main.ca6a362a.js.map"
+    "main.c4ad0e7a.css.map": "/Apple-clone/static/css/main.c4ad0e7a.css.map",
+    "main.43e6a09a.js.map": "/Apple-clone/static/js/main.43e6a09a.js.map"
   },
   "entrypoints": [
-    "static/css/main.88c779ff.css",
-    "static/js/main.ca6a362a.js"
+    "static/css/main.c4ad0e7a.css",
+    "static/js/main.43e6a09a.js"
   ]
 }
